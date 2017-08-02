@@ -1,7 +1,7 @@
 # labradoor-web-application-sandbox-vm
 Web Application sandbox (LAMP). based on Debian 9.1
 
-Web-application-testing Sandbox enviroment.
+Web-application-(pen)testing Sandbox enviroment.
 
 ### Features:
 - Based on Debian 9.1, + basic LAMP
